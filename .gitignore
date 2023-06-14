@@ -1,0 +1,6 @@
+# Cache Directories
+_cache
+mnist
+mnist_data
+fashion_mnist_data
+
